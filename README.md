@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkishoresunny&label=Profile%20views&color=0e75b6&style=flat" alt="rajkishoresunny" /> </p>
 
-- 🌱 I’m currently learning **Azure Cloud**
-
-- 👨‍💻 All of my projects are available at [github.com/RajkishoreSunny](github.com/RajkishoreSunny)
+- 🌱 I’m currently learning **Microsoft Azure Cloud Service**
 
 - 💬 Ask me about **Dot Net, Angular**
 
